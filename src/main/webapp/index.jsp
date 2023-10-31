@@ -25,13 +25,13 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-    <title>DMAN TECH</title>
+    <title>TEAM-B FLIGHT TICKETING  </title>
 </head>
 <body>
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
-        <h1 class="logo"><a href="#">Dman Tech</a></h1>
+        <h1 class="logo"><a href="#">CSCTEAM-B AIR FLIGHT  </a></h1>
         <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
         <nav id="navbar" class="navbar">
@@ -53,8 +53,8 @@
     <div class="container-fluid" data-aos="fade-up">
         <div class="row justify-content-center">
             <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                <h1>Bettter Digital Experience With DMAN TECH</h1>
-                <h2>We are team of talented designers making websites</h2>
+                <h1>Bettter Digital Experience With CSCTEAM-B AIR FLIGHT</h1>
+                <h2>Best Airline Ticketing COmpany in Mautech </h2>
                 <div><a href="flight_search.jsp" class="btn-get-started scrollto">Get Started</a></div>
             </div>
             <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
@@ -271,7 +271,7 @@
                     <div class="info-box mb-4">
                         <i class="bx bx-map"></i>
                         <h3>Our Address</h3>
-                        <p>A Musa Mamuda Shopping Complex Abasha Gashua Yobe State</p>
+                        <p>Sabon Gari , Sangere  Yola Adamawa State</p>
                     </div>
                 </div>
 
@@ -279,7 +279,7 @@
                     <div class="info-box  mb-4">
                         <i class="bx bx-envelope"></i>
                         <h3>Email Us</h3>
-                        <p>danmalam66@yahoo.com</p>
+                        <p>18d4429@student.mau.edu.ng</p>
                     </div>
                 </div>
 
@@ -339,13 +339,13 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>Dman Tech</h3>
+                    <h3>CSCTEAM-B AIR FLIGHT</h3>
                     <p>
-                        A Musa Mamuda Shopping Complex <br>
-                        Sarkin Hausawa Ward, Abasha Gashua<br>
-                        Yobe, Nigeria <br><br>
-                        <strong>Phone:</strong> +234 7064642009<br>
-                        <strong>Email:</strong> danmalam66@yahoo.com<br>
+                       Sangere Gierei <br>
+                       Adamawa State <br>
+                        Yola, Nigeria <br><br>
+                        <strong>Phone:</strong> +234 8105887212<br>
+                        <strong>Email:</strong> 18d4429@student.mau.edu.ng<br>
                     </p>
                 </div>
 
@@ -388,10 +388,10 @@
         <div class="copyright-wrap d-md-flex py-4">
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>DMANTECH</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>Alanjiro </span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
-                   Designed by <a href="#">Dman Tech</a>
+                   Designed by <a href="#">CSCTEAM-B AIR FLIGHT</a>
                 </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
