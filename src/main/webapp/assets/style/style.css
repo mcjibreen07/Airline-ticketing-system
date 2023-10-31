@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300&display=swap');
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: 'Poppins', sans-serif;
+}
+
+/*html {*/
+/*    height: 100vh;*/
+/*}*/
+
+body {
+    /*background-color: #F5F7F8;*/
+    background-color: #FFF;
+    font-size: 1.6em;
+    font-weight: 100;
+    background-image: url('../img/plane.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.search-flight {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 30px;
+    border-radius: 10px;
+    width: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /*opacity: .5;*/
+}
+
+.city-date {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.adults {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+
+.search-title {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+    color: #362FD9;
+    text-transform: uppercase;
+}
+
+svg {
+    fill: #362FD9;
+}
+
+.input-label{
+    /*display: flex;*/
+    display: block;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 8px 0;
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.sublabel {
+    color: #808080;
+    margin:4px;
+    font-size: 11px;
+}
+
+.arrive-input, .dept-input, .departure-date, .return-date, .input-select {
+    width: 100%;
+    padding: 10px;
+    color: black;
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.search-btn {
+    text-align: right;
+    background-color: #362FD9;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #FFF;
+}
